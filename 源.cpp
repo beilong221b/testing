@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout << "dfafa" << endl;
+	cout << "d" << endl;
 }
